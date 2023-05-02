@@ -1,0 +1,7 @@
+button:hover {
+    transform: translateY(-5px);
+    box-shadow: 2px 4px #200c3b;
+    background-color: #34e;
+    color: white;
+    transition: 0.4s;
+}
